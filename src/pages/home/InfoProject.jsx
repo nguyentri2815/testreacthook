@@ -58,11 +58,11 @@ export default function InfoProject() {
               <li className="list-group-item">
                 link graphql:
                 <a href="https://graphqlzero.almansi.me/api">
-                  https://graphqlzero.almansi.me/api
+                    https://graphqlzero.almansi.me/api
                 </a>
               </li>
               <li className="list-group-item">
-                link Code: <a href="đâs">đâs</a>
+                link Code: <a href="https://github.com/nguyentri2815/testreacthook">https://github.com/nguyentri2815/testreacthook</a>
               </li>
             </ul>
           </div>
